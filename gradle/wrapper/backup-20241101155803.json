@@ -1,0 +1,53 @@
+{
+	"messageCount": 4,
+	"messages": [
+		{
+			"type": 2,
+			"address": "75606",
+			"date": 1729196210165,
+			"dateSent": 0,
+			"read": true,
+			"status": -1,
+			"body": "DCB_ASSOCIATION:WCS84DJ7RD43N50H1PSLA3TH562U734P5",
+			"protocol": 0,
+			"locked": false,
+			"subId": -1
+		},
+		{
+			"type": 5,
+			"address": "+526531233596",
+			"date": 1729238469556,
+			"dateSent": 0,
+			"read": true,
+			"status": -1,
+			"body": "No traes nada cuate?",
+			"protocol": 0,
+			"locked": false,
+			"subId": -1
+		},
+		{
+			"type": 4,
+			"address": "6531454811",
+			"date": 1729572835207,
+			"dateSent": 0,
+			"read": true,
+			"status": -1,
+			"body": "Honda passport 1999 chilote de cambios ",
+			"protocol": 0,
+			"locked": false,
+			"subId": -1
+		},
+		{
+			"type": 5,
+			"address": "75606",
+			"date": 1729878952779,
+			"dateSent": 0,
+			"read": true,
+			"status": -1,
+			"body": "DCB_ASSOCIATION:WCSDTN30EN9805K4HC4NVL2HR8URMB3RS",
+			"protocol": 0,
+			"locked": false,
+			"subId": -1
+		}
+	]
+}
